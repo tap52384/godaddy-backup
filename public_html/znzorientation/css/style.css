@@ -1,0 +1,597 @@
+body {
+	text-align:			center;
+	background:			#001E38 url(http://www.zipnadazilch.com/images/bg.gif) top center repeat-x;
+	font-family:		Verdana;
+	margin:				0 auto;
+}
+
+a {
+	color:				#000080;
+	text-decoration:	underline;
+}
+
+a:hover {
+	color:				#8080FF;
+}
+
+#frame {
+	width:				900px;
+	margin:				0 auto;
+	margin-right:		auto;
+	margin-left:		auto;
+	padding:			0px;
+	text-align:			left;
+	font-family:		Verdana;
+	font-size:			11px;
+}
+
+#contentheader {
+	width:				900px;
+	height:				141px;
+	border:				0px;
+	margin:				0 auto;
+}
+
+#contentheader .img {
+	border:				0px;
+}
+
+#content {
+	width:				900px;
+	background:			#FFFFFF;
+	border:				0px;
+	margin:				0 auto;
+}
+
+#navbar {
+	background:			url(http://www.zipnadazilch.com/images/navbar.gif) top center no-repeat;
+	width:				900px;
+	height:				38px;
+	margin:				0 auto;
+	text-align:			center;
+}
+
+#tabnav li {
+	display:			inline;
+	list-style-type:	none;
+	margin:				0 auto;
+	text-align:			center;
+}
+
+#tabnav a:link, #tabnav a:visited {
+	float:				left;
+	background:			url(http://www.zipnadazilch.com/images/tab.gif) top center no-repeat;
+	font-size:			12px;
+	line-height:		16px;
+	font-weight:		bold;
+	padding:			5px 10px 2px 10px;
+	text-decoration:	none;
+	color:				#000;
+	width:				80px;
+	height:				18px;
+	margin-top:			12px;
+	margin-right:		2px;
+}
+
+#tabnav a:link.active, #tabnav a:visited.active {
+	text-decoration:	underline;
+}
+
+#tabnav a:hover {
+	text-decoration:	underline;
+}
+
+#tabnav2 li {
+	display:			inline;
+	list-style-type:	none;
+	margin:				0 auto;
+	text-align:			center;
+}
+
+#tabnav2 a:link, #tabnav2 a:visited {
+	float:				left;
+	background:			url(http://www.zipnadazilch.com/images/tab2.gif) top center no-repeat;
+	font-size:			12px;
+	line-height:		16px;
+	font-weight:		bold;
+	padding:			5px 10px 2px 10px;
+	text-decoration:	none;
+	color:				#000;
+	width:				130px;
+	height:				18px;
+	margin-top:			12px;
+	margin-right:		2px;
+}
+
+#tabnav2 a:link.active, #tabnav2 a:visited.active {
+	text-decoration:	underline;
+}
+
+#tabnav2 a:hover {
+	text-decoration:	underline;
+}
+
+#footer {
+    width:				900px;
+    background:			transparent;
+    font-size:			12px;
+    line-height:		normal;
+    border:				0px solid #000;
+    border-top:			0px;
+    text-align:			center;
+	color:				white;
+}
+
+#footer a {
+	color:				#ffffff;
+}
+
+#dropmenudiv {
+	position:			absolute;
+	border:				1px solid #1d3550;
+	border-bottom-width:1px;
+	font:				normal 12px Verdana;
+	line-height:		18px;
+	border-bottom:		1px solid #000000;
+	z-index:			100;
+	padding-top:		10px;
+	padding-bottom:		10px;
+	margin-right:		-125px;
+}
+
+#dropmenudiv a {
+	width:				165px;
+	display:			block;
+	text-indent:		3px;
+	padding:			1px 0 0 0px;
+	padding-left:		10px;
+	text-decoration:	none;
+	font-weight:		bold;
+	text-align:			left;
+	color:				#1d3550;
+}
+
+#dropmenudiv a:hover { 
+	background-color:	#efeaea;
+}
+
+#ribbon {
+	width:				200px;
+	height:				200px;
+	position:			absolute;
+	top:				8px;
+	right:				0px;
+	background:			transparent url(http://www.zipnadazilch.com/images/ribbon.png) no-repeat top right;
+}
+
+#boxify {
+    width:				475px;
+    margin-left:		auto;
+    margin-right:		auto;
+    border:				0px solid #000;
+    background:			transparent url(http://www.zipnadazilch.com/images/register_bg.gif) top center no-repeat;
+    padding:			13px 5px 5px 5px;
+	text-align:			center;
+}
+
+#boxify .header {
+	font-weight:		bold;
+}
+
+#boxify .header2 {
+	font-size:			13px;
+	font-weight:		bold;
+}
+
+#boxify .checkbox {
+	clear:				both;
+	font-size:			12px;
+	font-weight:		bold;
+}
+
+#offer {
+	width:				164px;
+	height:				164px;
+	border:				0px solid #000;
+	background:			transparent url(http://www.zipnadazilch.com/images/offer_bg.gif) center;
+	display:			block;
+	margin:				3px 0 0 0;
+	padding:			0px;
+	font-size:			10px;
+	line-height:		12px;
+}
+
+#pgtitle {
+	text-indent:		40px;
+	color:				#2D6FB1;
+	font-weight:		bold;
+}
+
+#pgdesc {
+	margin-left:		40px;
+}
+
+#prize {
+	background:			url(http://www.zipnadazilch.com/images/prize_bg_center.gif) center repeat-y;
+}
+
+#prize2 {
+	background:			url(http://www.zipnadazilch.com/images/prize_bg.gif) top no-repeat;
+	padding-top:		5px;
+}
+
+#prize3 {
+	background:			url(http://www.zipnadazilch.com/images/prize_bg_bottom.gif) bottom no-repeat;
+	margin:				0 auto;
+}
+
+#row {
+    clear:				both;
+    padding-top:		10px;
+    margin-left:		auto;
+    margin-right:		auto;
+    width:				75%;
+}
+
+#row .label {
+    float:				left;
+    text-align:			right;
+    font-size:			12px;
+    font-weight:		bold;
+}
+
+#row .form {
+    float:				right;
+    text-align:			left;
+}
+
+#rowsmall {
+    clear:				both;
+    padding-top:		2px;
+    margin-left:		auto;
+    margin-right:		auto;
+    width:				152px;
+}
+
+#rowsmall .labelsmall {
+    float:				left;
+    text-align:			right;
+    font-size:			10px;
+    font-weight:		bold;
+}
+
+#rowsmall .formsmall {
+    float:				right;
+    text-align:			left;
+	font-size:			10px;
+}
+
+#success {
+	width:				575px;
+	border:				1px solid #688FC9;
+	background:			#bddbf3;
+	color:				#000;
+	margin:				0 auto;
+	margin-bottom:		5px;
+	font-size:			11px;
+}
+
+#success td {
+	padding:			6px;
+}
+
+#success td.alt {
+	text-align:			center;
+	font-weight:		bold;
+}
+
+#yellow {
+	width:				575px;
+	border:				1px solid #a6a6a6;
+	background:			#ececaa;
+	color:				#000;
+	margin:				0 auto;
+	margin-bottom:		5px;
+	font-size:			11px;
+}
+
+#yellow td {
+	padding:			6px;
+}
+
+#yellow td.alt {
+	text-align:			center;
+	font-weight:		bold;
+}
+
+#yellow_750 {
+	width:				750px;
+	border:				1px solid #a6a6a6;
+	background:			#ececaa;
+	color:				#000;
+	margin:				0 auto;
+	margin-bottom:		5px;
+	font-size:			11px;
+}
+
+#yellow_750 td {
+	padding:			6px;
+}
+
+#yellow_750 td.alt {
+	text-align:			center;
+	font-weight:		bold;
+}
+
+#neutral {
+	width:				575px;
+	border:				1px solid #a6a6a6;
+	background:			#dfdfdf;
+	color:				#000;
+	margin:				0 auto;
+	margin-bottom:		5px;
+	font-size:			11px;
+}
+
+#neutral td {
+	padding:			6px;
+}
+
+#neutral td.alt {
+	text-align:			center;
+	font-weight:		bold;
+}
+
+#neutral_750 {
+	width:				750px;
+	border:				1px solid #a6a6a6;
+	background:			#dfdfdf;
+	color:				#000;
+	margin:				0 auto;
+	margin-bottom:		5px;
+	font-size:			11px;
+}
+
+#neutral_750 td {
+	padding:			6px;
+}
+
+#neutral_750 td.alt {
+	text-align:			center;
+	font-weight:		bold;
+}
+
+#error {
+	width:				575px;
+	border:				1px solid #B10A0A;
+	background:			#e69999;
+	color:				#000;
+	margin:				0 auto;
+	margin-bottom:		5px;
+	font-size:			11px;
+}
+
+#error td {
+	padding:			6px;
+}
+
+#error td.alt {
+	font-weight:		bold;
+	text-align:			center;
+}
+
+#hold {
+ 	width:				875px;
+	border:				1px solid #890f0f;
+	background:			#fff;
+	color:				#000;
+	margin:				0px auto;
+	font-size:			11px;
+}
+
+#hold td {
+	padding:			5px;
+}
+
+#missingcredit {
+	background-color:	#FFF;
+	color:				#000000;
+	width:				824px;
+	border:				1px solid #a1a5a9;
+	margin:				0 auto;
+}
+
+#main_215 {
+	background-color:	#FFF;
+	color:				#000;
+	width:				215px;
+	font-size:			11px;
+	border:				solid #9a9999 1px;
+}
+
+#main_215 tr.header td {
+	background-image:	url("http://www.zipnadazilch.com/images/header_bg.gif");
+	font-size:			10px;
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	padding:			4px 10px;
+}
+
+#main_615 {
+	background-color:	#FFF;
+	color:				#000;
+	width:				615px;
+	font-size:			11px;
+	border:				solid #9a9999 1px;
+}
+
+#main_615 tr.header td {
+	background-image:	url("http://www.zipnadazilch.com/images/header_bg.gif");
+	font-size:			10px;
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	padding:			4px 10px;
+}
+
+#main_850 {
+	background-color:	#FFF;
+	color:				#000;
+	width:				850px;
+	font-size:			11px;
+	border:				solid #9a9999 1px;
+	margin:				0 auto;
+}
+
+#main_850 tr.header td {
+	background-image:	url("http://www.zipnadazilch.com/images/header_bg.gif");
+	font-size:			10px;
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	padding:			4px 10px;
+}
+
+#main_850 tr.header2 td {
+	background-color:	#cfdcf9;
+	height:				25px;
+	padding-left:		8px;
+	font-size:			11px;
+	font-weight:		bold;
+}
+
+#main_850 td.content {
+	padding:			10px;
+}
+
+#main_850 td.content2 {
+	padding: 8px;
+	text-align: left;
+	font-size: 11px;
+}
+
+#list {
+	background-color:	#FFF;
+	color:				#000;
+	width:				100%;
+	font-size:			11px;
+}
+
+#list tr.list_header td {
+	font-size:			11px;
+	font-family:		Arial, Helvetica, sans-serif;
+	border-bottom:		2px solid #a3a7ba;
+	padding-bottom:		3px;
+	font-weight:		bold;
+}
+
+#list tr.list_content td {
+	font-size:			11px;
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border-bottom:		1px solid #9a9999;
+	padding:			5px 0px;
+}
+
+#list tr.list_content_ref td {
+	font-size:			11px;
+	font-family:		Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border-bottom:		1px solid #9a9999;
+	padding:			3px 0px;
+}
+
+#comments {
+	background-color:	#FFF;
+	color:				#000000;
+	width:				824px;
+	border:				1px solid #a1a5a9;
+	margin:				0 auto;
+}
+
+#comments tr.header td {
+	background-color:	#f1f1f1;
+	height:				25px;
+	padding-right:		8px;
+	font-size:			11px;
+}
+#comments tr.header_admin td {
+	background-color:	#bebebe;
+	height:				25px;
+	padding-right:		8px;
+	font-size:			11px;
+}
+
+#comments td.date {
+	text-align:			right;
+}
+
+#comments td.user {
+	padding:			10px 8px 10px 8px;
+	text-align:			left;
+	width:				100px;
+	border-right:		1px solid #dddddd;
+	font-size:			10px;
+	font-weight:		bold;
+}
+
+#comments td.post {
+	padding:			10px 8px 10px 8px;
+	width:				700px;
+	text-align:			left;
+}
+
+#trigger {
+	border:				1px solid #BFBFBF;
+	font-family:		Verdana;
+	color:				#001D40;
+	font-size:			10pt;
+	background:			url(http://www.zipnadazilch.com/images/but.gif) center no-repeat;
+}
+
+.box {
+	border:				1px solid rgb(204, 204, 204);
+	font-family:		Arial;
+	font-size:			10pt;
+}
+
+.box2 {
+	border:				1px solid rgb(204, 204, 204);
+	padding:			3px;
+	font-family:		Arial;
+	font-size:			10pt;
+}
+
+.cssheader {
+	width:				223px;
+	background:			transparent url(http://www.zipnadazilch.com/images/mousebg3.gif) top center no-repeat;
+	font-size:			11px;
+	text-align:			left;
+	padding:			8px 6px 8px 29px;
+	line-height:		15px;
+}
+
+.cssbody {
+	margin-left:		19px;
+	border-top:			2px #436fbc solid;
+}
+
+.cssheader2 {
+	width:				273px;
+	background:			transparent url(http://www.zipnadazilch.com/images/mousebg4.gif) top center no-repeat;
+	font-size:			11px;
+	text-align:			left;
+	padding:			8px 25px 8px 11px;
+	line-height:		15px;
+}
+
+.cssbody2 {
+	margin-left:		1px;
+	width:				289px;
+	border-top:			2px #436fbc solid;
+}
+
+.reflink {
+	width:				400px;
+	padding:			2px;
+	border:				1px solid rgb(204, 204, 204);
+	font-family:		Arial;
+	font-size:			10pt;
+}
+
+.sep {
+	border-bottom: 1px solid #9a9999;
+}

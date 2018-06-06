@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Get Started Today!</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=0, maximum-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="apple-touch-icon" href="img/icon.png" />
+    <link rel="shortcut icon" href="http://www.zipnadazilch.com/images/favicon.ico">
+	
+	<link rel="stylesheet" href="css/normalize.css" />
+	<link rel="stylesheet" href="css/style.css">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!--[if lt IE 9]><script src="js/libs/html5shiv.js"></script><![endif]-->
+
+
+	</head>
+
+
+
+	<body>
+
+<div id="ribbon"> </div>
+<div id="frame">
+	<div style="margin-bottom: 13px;">&nbsp;</div>
+
+	<div id="contentheader"><a href="http://one.zipnadazilch.com/?referral=176795"><img width="899" height="141" class="img" alt="http://one.zipnadazilch.com/" src="img/header.png"></a></div>
+
+	<!-- just creates space -->
+	<div style="margin-bottom: 13px;">&nbsp;</div>
+	
+	<div id="navbar">
+	<p style="font-weight:bold;text-align:center; font-size:16px">Here's a video explaining how to get started!</p>
+</div>
+<!-- end of the navbar at the top of the page -->
+
+
+
+<div id="content">
+
+<form name="theForm" id="theForm" method="POST" action="register.php">
+	
+	<!-- orientation video goes here -->
+
+	<!-- this div is the container for the video -->
+<div id="jw_container_$1$/gW19Jqo$GDxYLKqUBmjUBh15V4v49._wrapper" style="position: relative; width: 760px; height: 450px; margin: 0 auto; padding: 10px 0;">
+<object tabindex="0" name="jw_container_$1$/gW19Jqo$GDxYLKqUBmjUBh15V4v49." id="jw_container_$1$/gW19Jqo$GDxYLKqUBmjUBh15V4v49." bgcolor="#000000" data="webinarpageplayer.swf" type="application/x-shockwave-flash" style="height:100%;width:100%;background-color:#000" height="100%" width="100%">
+<param value="true" name="allowfullscreen">
+<param value="always" name="allowscriptaccess">
+<param value="true" name="seamlesstabbing">
+<param value="opaque" name="wmode">
+<param value="netstreambasepath=http%3A%2F%2Ffcmtraining.info%2Ffcm%2F&amp;id=jw_container_%241%24%2FgW19Jqo%24GDxYLKqUBmjUBh15V4v49.&amp;name=jw_container_%241%24%2FgW19Jqo%24GDxYLKqUBmjUBh15V4v49.&amp;file=http%3A%2F%2Fwww.vidhostingonline.com%2Fplayer%2F%241%24%2FgW19Jqo%24GDxYLKqUBmjUBh15V4v49.&amp;type=video&amp;image=http%3A%2F%2Fwww.vidhostingonline.com%2Fthumbnails%2Flarge.fcm-landing-page-webinarcheno-logos.jpg&amp;autostart=true&amp;controlbar.position=bottom" name="flashvars">
+</object>
+</div>
+<!-- not sure what this is for, but it came with the video -->
+<div id="div_bottom_$1$/gW19Jqo$GDxYLKqUBmjUBh15V4v49." style="display: none;"></div>
+<!-- end of of the div that contains the flash video -->
+
+	<!-- orientation video code stops here -->
+
+	<div style="margin-bottom: 13px;"></div>
+
+	<div style="margin-left: 50px; float: left;"><img width="387" height="22" alt="" src="http://www.zipnadazilch.com/images/step1.gif"></div>
+
+	<div style="margin-bottom: 39px;"></div>
+
+
+<div id="prize">
+	<div id="prize2">
+		<table width="862" border="0" align="center" style="align: center; table-layout: fixed;" id="prize3">
+																		<tbody><tr>
+				
+				<td align="center">
+					<img width="175" height="175" alt="" style="margin-top:10px;" title="" src="http://www.zipnadazilch.com/images/paypal.png"><br>
+					<b>PayPal</b><br>
+
+																		(1 Referral)
+											
+					<br>
+
+											<input type="radio" checked="" value="292" name="prizeid">
+											
+					<div>&nbsp;</div> 
+				</td>
+
+	            
+				
+							
+				<td align="center">
+					<img width="175" height="175" alt="" style="margin-top:10px;" title="header=[Check delivered to your address.&lt;br /&gt;
+&lt;br /&gt;
+$20 per referral -- 2 referral minimum] body=[&lt;br&gt;] cssbody=[cssbody] cssheader=[cssheader] fixedrelx=[150] fixedrely=[75] windowlock=[on]" src="http://www.zipnadazilch.com/images/check.png"><br>
+					<b>Check</b><br>
+
+																		(2 Referrals)
+											
+					<br>
+
+																		<input type="radio" value="293" name="prizeid">
+											
+					<div>&nbsp;</div> 
+				</td>
+
+	            
+				
+							
+				<td align="center">
+					<img width="175" height="175" alt="" style="margin-top:10px;" title="header=[Cash deposited right into your Payza account.&lt;br /&gt;
+&lt;br /&gt;
+$20 per referral -- 1 referral minimum] body=[&lt;br&gt;] cssbody=[cssbody] cssheader=[cssheader] fixedrelx=[150] fixedrely=[75] windowlock=[on]" src="http://www.zipnadazilch.com/images/payza.png"><br>
+					<b>Payza</b><br>
+
+																		(1 Referral)
+											
+					<br>
+
+																		<input type="radio" value="294" name="prizeid">
+											
+					<div>&nbsp;</div> 
+				</td>
+
+	            
+									</tr>
+									
+												<tr>
+				
+				<td align="center">
+					<img width="175" height="175" alt="" style="margin-top:10px;" title="header=[Get all the features of iPhone 4 &mdash; FaceTime video calling, Retina display, HD video recording, and more &mdash; in a phone that you can activate and use on the supported GSM wireless carrier of your choice, such as AT&amp;T in the United States.&lt;br /&gt;
+&lt;br /&gt;
+Available in: Black or White&lt;br /&gt;
+&lt;br /&gt;
+Retail value: $649.00] body=[&lt;br&gt;] cssbody=[cssbody] cssheader=[cssheader] fixedrelx=[150] fixedrely=[75] windowlock=[on]" src="http://www.zipnadazilch.com/images/iphone4.png"><br>
+					<b>16GB iPhone 4</b><br>
+
+																		(27 Referrals)
+											
+					<br>
+
+																		<input type="radio" value="324" name="prizeid">
+											
+					<div>&nbsp;</div> 
+				</td>
+
+	            
+				
+							
+				<td align="center">
+					<img width="175" height="175" alt="" style="margin-top:10px;" title="header=[Two cameras for FaceTime and HD video recording. The dual-core A5 chip. The same 10-hour battery life. All in a thinner, lighter design. Now iPad is even more amazing. And even less like anything else.&lt;br /&gt;
+&lt;br /&gt;
+Available in: Black or White&lt;br /&gt;
+&lt;br /&gt;
+Retail value: $499.00] body=[&lt;br&gt;] cssbody=[cssbody] cssheader=[cssheader] fixedrelx=[150] fixedrely=[75] windowlock=[on]" src="http://www.zipnadazilch.com/images/ipad2.png"><br>
+					<b>16GB iPad 2 w/Wi-Fi</b><br>
+
+																		(21 Referrals)
+											
+					<br>
+
+																		<input type="radio" value="323" name="prizeid">
+											
+					<div>&nbsp;</div> 
+				</td>
+
+	            
+				
+							
+				<td align="center">
+					<img width="175" height="175" alt="" style="margin-top:10px;" title="header=[Want a different prize other than what is listed on our site? If so, simply contact us via a support ticket regarding your prize selection so we can inform you of the required referrals to receive your prize. If possible, please include a link to the prize you are wanting within your support ticket.] body=[&lt;br&gt;] cssbody=[cssbody] cssheader=[cssheader] fixedrelx=[150] fixedrely=[75] windowlock=[on]" src="http://www.zipnadazilch.com/images/customorder.png"><br>
+					<b>Custom Order</b><br>
+
+																										(? Referrals)
+																		
+					<br>
+
+																		<input type="radio" value="295" name="prizeid">
+											
+					<div>&nbsp;</div> 
+				</td>
+
+	            
+									</tr>
+									
+					</tbody></table>
+	</div>
+</div>
+
+<div><img width="900" height="60" alt="" src="http://www.zipnadazilch.com/images/round_middle.gif"></div>
+<div style="margin-bottom: 5px;" id="spacer">&nbsp;</div>
+
+
+<div id="boxify">
+    <span class="header2">Sign Up</span>
+
+	<div style="margin-bottom: 5px;">&nbsp;</div>
+
+			<div style="color: green;">You are being referred by user ID <b>176795</b>.</div>
+	
+	<div>&nbsp;</div>
+
+	<div id="row">
+		<span class="label">E-mail Address:</span>
+ 		<span class="form"><input type="text" class="box" value="" size="30" name="email1"></span>
+	</div>
+
+	<div style="margin-bottom: 21px;">&nbsp;</div>
+
+	<input type="hidden" value="" name="referrer_url">
+	<input type="hidden" value="176795" name="referral_id">
+	<input type="hidden" value="register" name="action">
+	<div align="center"><input type="submit" id="trigger" value="Sign Up"></div>
+
+	<div>&nbsp;</div>
+
+	<div align="center">
+	    <a href="forgotpass.php?referral=176795">I forgot my password</a><br>
+		Already a member? <a href="login.php?referral=176795">Log-in here</a>
+	</div>
+</div>
+
+<div align="center"><img width="485" height="24" alt="" src="http://www.zipnadazilch.com/images/log-bottom.gif"></div>
+
+<div>&nbsp;</div>
+</form>
+<!-- end of form -->
+
+
+</div><div id="footer">
+	<img width="900" height="64" alt="" src="http://www.zipnadazilch.com/images/footer.png">
+	<a target="_blank" href="http://www.zipnadazilch.com/terms-and-conditions/">Terms &amp; Conditions</a> | <a target="_blank" href="http://www.zipnadazilch.com/privacy-policy/">Privacy Policy</a> | <a target="_blank" href="reportspam.php">Report Spam</a>
+</div>
+
+</div>
+<!-- end of frame -->
+
+
+
+
+
+<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="js/jquery-1.8.3.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/json2.js"></script>
+<!-- script for the embedded video code above -->
+<script type="text/javascript" src="js/webinarpagejwplayer.js"></script>
+
+<!-- change the height and width to change the video size -->
+<script type="text/javascript">
+jwplayer("jw_container_$1$/gW19Jqo$GDxYLKqUBmjUBh15V4v49.").setup({ 
+flashplayer: "http://www.vidhostingonline.com/content/videos/player.swf",
+file: "http://www.vidhostingonline.com/player/$1$/gW19Jqo$GDxYLKqUBmjUBh15V4v49.",
+height:450,
+width: 760,
+type: "video",
+image: "http://www.vidhostingonline.com/thumbnails/large.fcm-landing-page-webinarcheno-logos.jpg",
+controlbar: "bottom",
+autostart: "true" 
+}); // end of function
+</script>
+
+</body>
+</html>
